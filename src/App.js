@@ -13,7 +13,7 @@ class App extends Component {
           </p>
           <p>dubbel check of je het nog allemaal kan kerel</p>
          <p>chechk of je branch anders is dan master</p>
-         
+         <p>hallo naar branch push</p>
           <a
             className="App-link"
             href="https://reactjs.org"
