@@ -12,6 +12,8 @@ class App extends Component {
             Edit <code>src/App.js</code> and save to reload.
           </p>
           <p>dubbel check of je het nog allemaal kan kerel</p>
+         <p>chechk of je branch anders is dan master</p>
+         
           <a
             className="App-link"
             href="https://reactjs.org"
